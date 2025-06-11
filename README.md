@@ -85,6 +85,5 @@ In scenarios like survival prediction, **recall is more important than just accu
 - Use of ensemble models like stacking
 - Incorporate SHAP or LIME for model explainability
 
-## Screenshot
----![Model_Comparison](ModelComparison.png)
+
 
